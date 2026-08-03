@@ -20,6 +20,15 @@ header{
     border-radius:10px;
     margin-bottom:20px;
 }
+ .navbar{
+         background:#06613b;
+    padding:15px;
+    border-radius:10px;
+    margin-bottom:20px;
+}
+#top{
+    border:4px solid gold;
+}
 
 header h1{
     margin-bottom:15px;
