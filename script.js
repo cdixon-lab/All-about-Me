@@ -199,3 +199,4 @@ function getFeaturedContact() {
             console.error(error);
         });
 }
+getFeaturedContact();
